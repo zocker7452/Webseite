@@ -9,6 +9,6 @@ Alles was hier hochgeladen wird (und auf der Webseite angezeigt wird) steht unte
 
 
 Kontakt: 
- - [E-Mail](mailto:hopedevmail@yahoo.com)
+ - [E-Mail](aurelb@lesshope.eu)
  - [Discord](https://discord.swordcraftonline.de)
 
