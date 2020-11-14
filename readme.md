@@ -12,3 +12,7 @@ Kontakt:
  - [E-Mail](mailto:aurelb@lesshope.eu)
  - [Discord](https://discord.swordcraftonline.de)
 
+Notiz an Developer
+ - Bei hinzufügen von Medien bitte den Content Delivery Server verwenden. Weiteres auf Anfrage bei Hope, er wird dieses genauer erklären
+ - Pull Requests bitte. Direkte Commits werden revertet.
+ 
