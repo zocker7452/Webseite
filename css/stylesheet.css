@@ -385,6 +385,37 @@ hr {
 
 }
 
+/* Status */
+#statuspage {
+	margin: 50px 30px;
+	text-align: center;
+}
+
+#statuspage h2 {
+	margin-top: 8px;
+}
+
+#statuspage p {
+	font-size: 0.9em;
+}
+
+#my-div
+{
+	width    : 400px;
+	height   : 200px;
+	overflow : hidden;
+	position : relative;
+}
+
+#my-iframe
+{
+	position : absolute;
+	top      : -100px;
+	left     : -100px;
+	width    : 1280px;
+	height   : 1200px;
+}
+
 /* Footer */
 
 footer {
