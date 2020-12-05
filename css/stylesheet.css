@@ -13,8 +13,10 @@ body {
 	font-family: Helvetica;
 	margin: 0;
 
-	-webkit-animation: slide-in-fwd-center 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	/*-webkit-animation: slide-in-fwd-center 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: slide-in-fwd-center 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+
+	 */
 
 
 }
@@ -320,7 +322,8 @@ hr {
 
 .owner,
 .manager,
-.admin {
+.admin,
+.tleitung{
 	padding: 12px;
 }
 @keyframes float {
@@ -340,7 +343,7 @@ hr {
 .owner {background-color: red;}
 .manager {background-color: rgba(66, 134, 244, .5);}
 .admin {background-color: rgba(250, 27, 0, 0.92);}
-
+.tleitung {background-color: rgb(153, 26, 149);}
 /* Announcement */
 
 #announcement {
