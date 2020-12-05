@@ -322,7 +322,8 @@ hr {
 
 .owner,
 .manager,
-.admin {
+.admin,
+.tleitung{
 	padding: 12px;
 }
 @keyframes float {
@@ -342,7 +343,7 @@ hr {
 .owner {background-color: red;}
 .manager {background-color: rgba(66, 134, 244, .5);}
 .admin {background-color: rgba(250, 27, 0, 0.92);}
-
+.tleitung {background-color: rgb(153, 26, 149);}
 /* Announcement */
 
 #announcement {
